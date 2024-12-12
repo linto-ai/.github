@@ -3,7 +3,7 @@
 <h4 align="center">Open Source Ecosystem for Transcription, Collaborative Media Management, Annotation, Live Subtitling, and Summarization</h4>
 
 <p align="center">
-  <img src="https://github.com/linto-ai.png" alt="LinTO AI Banner" width="200">
+  <img src="https://github.com/linto-ai/linto-studio/raw/master/doc/Studio.png" alt="LinTO AI Banner" width="600">
 </p>
 
 ## Overview
