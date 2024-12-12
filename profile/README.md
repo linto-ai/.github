@@ -10,6 +10,17 @@
 
 LinTO AI provides a powerful suite of open-source tools for transcription, collaborative media editing, annotation, live subtitling, and summarization utilizing large language models (LLMs).
 
+<div style="text-align: center;">
+  <strong>Hosted by</strong>
+  <br>
+  <img src="https://labs.linagora.com/wp-content/uploads/2021/02/cropped-linagora-labs-red-blue1.png" alt="LINAGORA" width="80" style="display: inline-block; margin: 10px 0;">
+  <br>
+  <a href="https://studio.linto.app" target="_blank" rel="noopener noreferrer" style="font-size: 18px; text-decoration: none; color: #007bff;"><strong>Try LinTO Studio</strong></a>
+</div>
+
+
+
+
 ## Quick Start
 
 - **LinTO Studio**: 🎤 A media management platform offering advanced tools for transcription and collaborative media editing. Key features include:
