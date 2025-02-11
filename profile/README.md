@@ -34,14 +34,17 @@ LinTO AI provides a powerful suite of open-source tools for transcription, colla
 
 LinTO Studio leverages our other technologies, including:
   - **LinTO-STT** for speech-to-text conversion.
+  - **LinTO-Live-Plugins** designed to operate transcription on inbound audiovisual streams (SRT, RTMP, WS...).
   - **LinTO-Diarization** for speaker segmentation and identification.
   - **LLM-Gateway** for advanced summarization.
 
-To deploy LinTO Studio and its associated services, use the [LinTO Deployment Tool](https://github.com/linto-ai/linto), which simplifies the setup process.
+To deploy LinTO Studio and its associated services, use the [LinTO Deployment Tool](https://github.com/linto-ai/linto), which simplifies the setup process. [Learn more](https://github.com/linto-ai/linto-studio)
 
 ## Key Projects
 
 - **LinTO-STT**: 🗣️ An automatic speech recognition API supporting both offline and real-time transcriptions. It accommodates models like Kaldi and Whisper and can operate as a standalone service or within a microservices infrastructure. [Learn more](https://github.com/linto-ai/linto-stt)
+
+- **LinTO-Studio-PLugins**: Designed to operate and manage, at scale, transcription sessions from inbound audiovisual streams. Particularly in enterprises or structures managing multiple meeting rooms, whether physical or virtual. The project connects multiple automatic speech recognition (ASR) providers to enable transcription of multilingual meetings. Its primary objective is to provide users with live closed captions and the ability to download transcripts of past sessions. In other words, the project bridges audio streams, with SRT streams as a first-class citizen, to ASR providers and manages transcripts, including real-time delivery on screen and downloadable artifacts. [Learn more](https://github.com/linto-ai/linto-studio-plugins/tree/dev)
 
 - **Whisper-Timestamped**: ⏱️ A multilingual automatic speech recognition tool providing word-level timestamps and confidence scores. It enhances OpenAI's Whisper models to deliver more precise transcriptions with detailed timing information. [Learn more](https://github.com/linto-ai/whisper-timestamped)
 
